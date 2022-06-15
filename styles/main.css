@@ -1,0 +1,35 @@
+.main-content{
+    display: flex;
+
+}
+
+h3{
+    color: black;
+    text-align: center;
+}
+
+.list{
+    flex: 3;
+    border-right: solid 1px;
+    margin-right: 5px;
+}
+
+.form {
+    flex: 2;
+}
+
+#iImportant{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+/* no space neede for this between id and icon */
+#iImportant.fa-star{
+    color: rgb(200, 156, 23);
+}
+
+#btnShowHide{
+    border: none;
+}
+
+
