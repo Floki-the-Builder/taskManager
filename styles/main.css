@@ -30,6 +30,16 @@ h3{
 
 #btnShowHide{
     border: none;
+    background-color: rgb(102, 178, 216);
 }
 
+#addTaskBtn{
+    border: none;
+    background-color: rgb(102, 178, 216);
 
+}
+
+/* .task .left-col{
+ display: flex;
+
+} */
